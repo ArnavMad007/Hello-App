@@ -1,7 +1,7 @@
 /**
  * OOPS Banner App
  * UC2 - Display Hello with Command-Line Argument
- * @author Arnav.M
+ * @author Charan
  * @version 2.0
  */
 
@@ -18,3 +18,4 @@ public class HelloApp {
             System.out.println("Hello, World!");
         }
     }
+}
